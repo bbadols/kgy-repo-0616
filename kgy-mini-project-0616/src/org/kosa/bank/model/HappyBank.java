@@ -1,5 +1,8 @@
 package org.kosa.bank.model;
 
 public class HappyBank {
-	public class name{}
+	public void deposit() {
+		System.out.println("kgy 입금 수정");
+	}
+	
 }
