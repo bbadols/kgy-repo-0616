@@ -1,7 +1,8 @@
 package org.kosa.bank.model;
 
 public class HappyBank {
-	public class name{}
-	public void deposit() {}
+	public void deposit() {
+		System.out.println("kgy-item-dao 입금 작업추가");
+	}
 	
 }
